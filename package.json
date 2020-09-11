@@ -105,7 +105,6 @@
       "node"
     ]
   },
-
   "eslintConfig": {
     "extends": "react-app",
     "rules": {
